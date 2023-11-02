@@ -1,0 +1,6 @@
+.testi{
+    display: flex;
+    border: 2px solid blanchedalmond;
+    padding: 40px;
+    font-size: 25px;
+}

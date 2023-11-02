@@ -1,0 +1,13 @@
+.flx3{
+    display: flex;
+    background-color: purple;
+}   
+.butt1{
+    height: 40px;
+    width: 120px;
+    margin-left: 270px;
+}
+.butt2{
+    height: 40px;
+    width: 120px;
+}

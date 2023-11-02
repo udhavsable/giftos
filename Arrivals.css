@@ -1,0 +1,26 @@
+.saving{
+    display: flex;
+    background-color: pink;
+    height: 500px;
+}
+.saving1{
+    margin-top: 30px;
+}
+.but1{
+    color: aliceblue;
+    height: 30px;
+    width: 150px;
+    background-color: deepskyblue;
+}
+.but2{
+     color: black;
+    height: 30px;
+    width: 150px;
+    background-color: aliceblue;
+}
+.but1:hover{
+    background-color: darkslategrey;
+}
+.but2:hover{
+    background-color: cornflowerblue;
+}

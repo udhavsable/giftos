@@ -1,0 +1,48 @@
+.div1
+{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    grid-template-rows: auto auto;
+    gap:30px;
+    padding: 40px;
+    text-align: center;
+}
+.prod
+{
+    height: 300px;
+    width: 250px;
+    /* border: 1px solid blue; */
+    background-color:lightgray;
+}
+.new
+{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    background-color: white;
+    padding: 10px;
+    /* padding-top: 10px; */
+    text-align: center;
+    margin: 5px;
+    vertical-align: middle;
+}
+h3
+{
+    margin-top: 0px;
+   padding: 5px;
+}
+span
+{
+    color: red;
+}
+.div2
+{
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px;
+}
+.head
+{
+    margin-left: 100px;
+}
+

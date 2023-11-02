@@ -1,0 +1,33 @@
+.flx1{
+    background-color: pink;
+    display: flex;
+    border: 2px solid grey;
+    border-radius: 50px;
+}
+h1{
+    font-size: 60px;
+    margin-left: 30px;
+}
+p{
+    font-size: 30px;
+    padding: 10px;
+}
+button{
+    margin-left: 50px;
+    background-color: pink;
+}
+button:hover{
+    background-color: brown;
+}
+/* .flx2{ */
+   /* display: flex; */
+   /* height: 500px; */
+   /* width: 500px; */
+   /* border: 2px solid blue; */
+   /* gap: 20px; */
+   /* padding: 20px; */
+   /* flex-flow: column; */
+   /* align-items: center; */
+   /* justify-content: center; */
+  /* flex-direction: row-reverse;
+}

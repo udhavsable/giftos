@@ -1,0 +1,118 @@
+/* .flx1{
+    background-color: pink;
+    display: flex;
+    border: 2px solid grey;
+    border-radius: 50px;
+}
+h1{
+    font-size: 60px;
+    margin-left: 30px;
+}
+p{
+    font-size: 30px;
+    padding: 10px;
+
+}
+button{
+    margin-left: 50px;
+    background-color: pink;
+}
+button:hover{
+    background-color: brown;
+}
+.flx2{
+   display: flex;
+   height: 500px;
+   width: 500px;
+   border: 2px solid blue; 
+   gap: 20px;
+   padding: 20px;
+   flex-flow: column; 
+   align-items: center;
+   justify-content: center;
+   flex-direction: row-reverse;
+} */
+/* .items
+{
+    background-color: antiquewhite;
+    flex-basis:550px;
+}
+.flx .items:nth-of-type(2)
+{
+    flex-grow: 2;
+    flex-shrink: 2;
+}
+.but{
+    background-color: brown;
+    height: 50px;
+    width: 150px;
+    margin-left: 580px;
+}
+.but:hover{
+    color: black;
+    background-color: white;
+}
+.flx3{
+    display: flex;
+    background-color: cyan;
+    margin-top: 30px;
+} */
+/* .but1{
+    color: aliceblue;
+    height: 30px;
+    width: 150px;
+    background-color: deepskyblue;
+}
+.but2{
+     color: black;
+    height: 30px;
+    width: 150px;
+    background-color: aliceblue;
+}
+.but1:hover{
+    background-color: darkslategrey;
+}
+.but2:hover{
+    background-color: cornflowerblue;
+} */
+/* height: 600px;  
+}.flx3{
+    display: flex;
+    
+.butt1{
+    height: 30px;
+    width: 120px;
+}
+.butt2{
+    height: 30px;
+    width: 120px;
+} */
+.flx4{
+    display: flex;
+    margin-left: 250px;
+    border: 3px solid aliceblue;
+}
+.flx5{
+    height: 300px;
+    width: 400px;
+}
+.div1{
+    border: 2px solid aliceblue; 
+    display: flex;
+    /* border: 2px solid antiquewhite;  */
+}
+.div2{
+    border: 2px solid aliceblue; 
+    /* display: flex;  */
+    border: 2px solid antiquewhite;
+}
+.div3{
+    border: 2px solid aliceblue; 
+    /* display: flex;  */
+    border: 2px solid antiquewhite;
+}
+.div4{
+    border: 2px solid aliceblue; 
+    /* display: flex;  */
+    border: 2px solid antiquewhite;
+}
